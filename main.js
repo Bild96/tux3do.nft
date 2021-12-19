@@ -1,4 +1,3 @@
-
 Loadr = new (function Loadr(id){
     // # Defines
     const max_size = 24;
